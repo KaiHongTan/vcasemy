@@ -51,7 +51,7 @@ $ make static-files
 Run the server
 
 ```
-$ NODE_ENV=production STEAM_API_KEY="STEAM API KEY" BASE_URL="http://vcase.gg" SESSION_KEY="SOME_RANDOM_KEY" PORT=3001 VGO_URL="https://api-trade.opskins.com" VGO_API_KEY="SOME_API_KEY" AFFILIATE_ADDRESS="0x939826f5acff002bf6b898fb8151cac83b2401" npm run server
+$ NODE_ENV=production STEAM_API_KEY="STEAM API KEY" BASE_URL="http://vcase.eu-4.evennode.com/" SESSION_KEY="2134125234" PORT=80 VGO_URL="https://api-trade.opskins.com" VGO_API_KEY="6119a188d842b79451dedbeb2d3d78" AFFILIATE_ADDRESS="0x939826f5acff002bf6b898fb8151cac83b2401" npm run server
 ```
 
 ### Configuration variables
