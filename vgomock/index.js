@@ -2,7 +2,7 @@ const Koa = require('koa');
 const router = require('koa-router')();
 const serve = require('koa-static');
 const koaBunyanLogger = require('koa-bunyan-logger');
-const PORT = 80;
+const PORT = 3002;
 
 const app = new Koa();
 require('koa-qs')(app);

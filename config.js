@@ -37,7 +37,7 @@ const configs = {
     },
     development: function () {
         return {
-            baseURL: 'http://vcase.eu-4.evennode.com/',
+            baseURL: 'localhost',
             port: 3002,
             vgoURL: 'https://api-trade.opskins.com',
             vgoAPIKey: '6119a188d842b79451dedbeb2d3d78',
